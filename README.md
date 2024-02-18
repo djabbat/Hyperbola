@@ -1,1 +1,1 @@
-Hyperbole counts and sums individually International Phonetic Alphabet (IPA) characters in texts placed in folder "../paste".
+Hyperbole counts and sums individually International Phonetic Alphabet (IPA) and Georgian characters in texts placed in folder "../paste".
